@@ -1,0 +1,2 @@
+# ohmtopus
+A GIT LIBRARY FOR IDIOT
